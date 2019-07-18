@@ -11,3 +11,4 @@
 print("hello world! first")
 print('second test')
 print("这是一个测试文件")
+print("这也是一个测试文件")

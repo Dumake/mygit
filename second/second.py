@@ -10,3 +10,4 @@
 
 print("hello world! second")
 print("second test!")
+print("这是一个测试文件")
