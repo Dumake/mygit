@@ -2,3 +2,4 @@ the test
 hello
 test two
 hello two
+connect github test
