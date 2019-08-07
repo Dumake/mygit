@@ -1,1 +1,3 @@
 test pychart connect
+
+pycharm message
